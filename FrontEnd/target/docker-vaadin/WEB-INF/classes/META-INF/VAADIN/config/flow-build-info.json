@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\Users\\jgarc\\Documents\\DIS\\PR3\\p3-front-grupo-4\\front\\vaadin",
+  "generatedFolder": "C:\\Users\\jgarc\\Documents\\DIS\\PR3\\p3-front-grupo-4\\front\\vaadin\\target\\frontend",
+  "frontendFolder": "C:\\Users\\jgarc\\Documents\\DIS\\PR3\\p3-front-grupo-4\\front\\vaadin\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}

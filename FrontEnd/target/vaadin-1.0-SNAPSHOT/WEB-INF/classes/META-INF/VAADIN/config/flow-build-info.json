@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\Users\\alexm\\PracticasDIS\\Practica2\\p2-dis-vaadin-api-testing-grupo-4\\parte3\\vaadin",
+  "generatedFolder": "C:\\Users\\alexm\\PracticasDIS\\Practica2\\p2-dis-vaadin-api-testing-grupo-4\\parte3\\vaadin\\target\\frontend",
+  "frontendFolder": "C:\\Users\\alexm\\PracticasDIS\\Practica2\\p2-dis-vaadin-api-testing-grupo-4\\parte3\\vaadin\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
